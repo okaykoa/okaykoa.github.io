@@ -3,6 +3,8 @@ layout: page
 title: a microblog adventure
 ---
 
-read the [microblog](/pages/blog.md#microblog)
+a public journal and a bad idea.
 
-read [essays](/pages/blog.md#essays)
+- read the [microblog](/pages/blog.md#microblog)
+
+- read [essays](/pages/blog.md#essays)
