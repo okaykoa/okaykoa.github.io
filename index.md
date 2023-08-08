@@ -5,4 +5,4 @@ title: a microblog adventure
 
 read the [microblog](/pages/blog.md)
 
-read [essays](/pages/essays.md)
+read [essays](/pages/blog.md#essays)
