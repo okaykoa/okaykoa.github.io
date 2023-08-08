@@ -13,7 +13,7 @@ social:
 
 remote_theme: erlzhang/jekyll-theme-persephone
 # Your site's logo. Will be shown on the left top of your page.
-logo: /img/okaykoa_logo.jpg
+# logo: /img/okaykoa_logo.jpg
 # If the images of our blog are stored in an external cloud. You can use the jekyll-img-prefix plugin and set your images' base URL here.
 # img_prefix: https://your-img-cdn.com
 # # The RSS link of your blog.
@@ -32,7 +32,7 @@ theme_setting:
   # The nav links on the top right of home/page/post/blog layout. You can set a local page(by setting a layout's path) or and external link ( both title and url are required) here.
   nav_pages:
     - "about.md"
-    - "blog.md"
+    - "_pages/blog.md"
     - "essays.md"
     # -
     #   title: "External Link Title"
