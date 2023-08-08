@@ -31,9 +31,9 @@ theme_setting:
   archive_page: "archive.md"
   # The nav links on the top right of home/page/post/blog layout. You can set a local page(by setting a layout's path) or and external link ( both title and url are required) here.
   nav_pages:
-    - "about.md"
-    - "/_pages/blog.md"
-    - "essays.md"
+    - "pages/about.md"
+    - "pages/blog.md"
+    - "pages/essays.md"
     # -
     #   title: "External Link Title"
     #   url: "https://your-external-link.com"
