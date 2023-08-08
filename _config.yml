@@ -45,7 +45,7 @@ theme_setting:
   #  Locales of this theme.
   lang:
     category_all: all # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
-    blog_title: microblog # The text of ← back url on the top of the post layout.  Default is 'Home'.
+    microblog_title: microblog # The text of ← back url on the top of the post layout.  Default is 'Home'.
     essays_title: essays # The text of ← back url on the top of the post layout.  Default is 'Home'.
     # # The locales of the comment controls.
     # comment:
