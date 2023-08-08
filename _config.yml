@@ -26,7 +26,7 @@ theme_setting:
   # The ← back URL on the top of your post page. Default is your site's home page.
   microblog_page: "pages/blog.md"
   # The ← back URL on the top of your post page. Default is your site's home page.
-  essays_page: "pages/essays.md"
+  essay_page: "pages/essays.md"
   # The URL on your name on the bottom of your post and page. Default is your site's home page.
   about_page: "index.md"
   # #  The URL of the menu icon(which has three black lines). Will be shown on the slides/book/chapter layouts It won't be shown if blank.
