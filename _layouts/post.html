@@ -30,11 +30,6 @@ layout: default
       {{ content | toc | img_prefix }}
     </div>
   </article>
-  {%- if site.comment.enabled -%}
-  {% include comments.html -%}
-  {%- else -%}
-  {% include contact.html -%}
-  {%- endif -%}
 </main>
 {%- if site.theme_setting.code or page.code -%}
   <script>hljs.initHighlightingOnLoad();</script>
