@@ -1,5 +1,5 @@
 title: im okaykoa
-description: a microblog adventure
+description: a public journal
 # email: your-email@address.com
 
 author: okaykoa #  Default is your site title.
@@ -21,8 +21,8 @@ remote_theme: erlzhang/jekyll-theme-persephone
 
 # The followings are settings for displays of your blog.
 theme_setting:
-  # The slides count in the slides layout. Default is 4.
-  slides_count: 5
+  # # The slides count in the slides layout. Default is 4.
+  # slides_count: 5
   # The ← back URL on the top of your post page. Default is your site's home page.
   blog_page: "pages/blog.md"
   # The ← back URL on the top of your post page. Default is your site's home page.

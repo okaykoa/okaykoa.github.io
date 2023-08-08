@@ -1,9 +1,7 @@
 ---
 layout: page
-title: a microblog adventure
+title: a public journal and a bad idea.
 ---
-
-a public journal and a bad idea.
 
 - read the [microblog](/pages/blog.md#microblog)
 
