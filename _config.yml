@@ -24,7 +24,7 @@ theme_setting:
   # The slides count in the slides layout. Default is 4.
   slides_count: 5
   # The ← back URL on the top of your post page. Default is your site's home page.
-  microblog_page: "pages/blog.md"
+  blog_page: "pages/blog.md"
   # The ← back URL on the top of your post page. Default is your site's home page.
   about_page: "index.md"
   # #  The URL of the menu icon(which has three black lines). Will be shown on the slides/book/chapter layouts It won't be shown if blank.
@@ -43,7 +43,7 @@ theme_setting:
   #  Locales of this theme.
   lang:
     category_all: all entries # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
-    microblog_title: microblog # The text of ← back url on the top of the post layout.  Default is 'Home'.
+    microblog_title: posts # The text of ← back url on the top of the post layout.  Default is 'Home'.
     # # The locales of the comment controls.
     # comment:
     #   user: "昵称"
