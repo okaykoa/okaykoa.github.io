@@ -38,9 +38,9 @@ theme_setting:
     #   title: "External Link Title"
     #   url: "https://your-external-link.com"
   # Every default value in the following settings is false. You can set them globally here or separately in a single post/page/chapter.
-  code: true # Code highlight.
-  math: true # Mathjax
-  mermaid: true # Mermaid
+  # code: true # Code highlight.
+  # math: true # Mathjax
+  # mermaid: true # Mermaid
   #  Locales of this theme.
   # lang:
   #   category_all: All # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
@@ -53,8 +53,8 @@ theme_setting:
     #   message: "说点什么吧..."
     #   reply: "回复"
 
-head_code: |
-  <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
+# head_code: |
+#   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
 
 # The settings of comments.
 # comment:
