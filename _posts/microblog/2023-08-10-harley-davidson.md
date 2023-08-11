@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "satisfied - harley davidson"
+title:  "satisfied - air force one"
 category: microblog
 ---
 
-I rode my motorcycle to the office today--on the same part of I-15 that was backed up for an hour yesterday. I took a motorcycle course last summer, thinking I might enjoy trying something new. I ended up loving riding motocycles and thought I'd rent for a couple years until I could save up for a motocycle. 
-
-Anyway, I bought a motocycle first thing this year, outgrew it, and traded it in for a Harley Davidson.
+Joe Biden has been in town and it has been the buzz around SLC and in my office. One of my coworkers was listening to air traffice control radio to see if he could hear about the President flying out of SLC. Well, my partner is an air traffic controller, so that became the talk of the office and folks were trying to listen for my girlfriend over the radio. We never heard her though...
 
 This evening my roommate gave me some ice cream he made with his Ninja Creamie, which is unfortunately named but makes killer ice cream.
 
