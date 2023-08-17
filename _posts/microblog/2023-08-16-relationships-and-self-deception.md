@@ -14,7 +14,7 @@ Though I experienced several lasting changes from reading Leadership and Self-de
 
 Many of the books I have read lately were chosen for the purpose of being a better communicator and partner in my yet blossoming relationship. Though we have hit stride in many ways, there are still ways in which I would like to see myself improve as a partner, communication not being the least of them.
 
-As I have read books about communication, relationships, and conflict resolution, I have  noticed a common warning against applying the methods from the books to identify faults in others. As this warning came up tonight, I had a momeny of self-reflection:
+As I have read books about communication, relationships, and conflict resolution, I have  noticed a common warning against applying the methods from the books to identify faults in others. As this warning came up tonight, I had a moment of self-reflection:
 
 > Have I fallen into the trap of looking for flaws in my partner as I read books to supposedly improve myself?
 
