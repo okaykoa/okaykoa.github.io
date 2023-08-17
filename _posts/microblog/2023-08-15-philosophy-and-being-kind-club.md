@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  philosophy and being kind club
+title:  unwell - philosophy and being kind club
 category: microblog
 ---
 
