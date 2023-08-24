@@ -1,7 +1,7 @@
 ---
 layout: post
 title: uncertain - capitalism, i guess?
-categories: 
+categories: microblog
 ---
 
 Well, it's a few hours later. 
