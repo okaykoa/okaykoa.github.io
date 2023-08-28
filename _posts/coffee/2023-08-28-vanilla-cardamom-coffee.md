@@ -6,7 +6,7 @@ categories: "coffee"
 
 Coffee with Caroline vol. 1
 
-This coffee is reminiscent of a latte, but idk what actually makes a latte. The cardamom provides a pleasant bitterness, bringing out the robustness of your coffee beans, and is sweetened by a subtle vanilla foam.
+**Description :** This coffee is reminiscent of a latte, but idk what actually makes a latte. The cardamom provides a pleasant bitterness, bringing out the robustness of your coffee beans, and is sweetened by a subtle vanilla foam.
 
 **Tasting notes:** Coffee, Cardamom, Vanilla, Half and half
 
