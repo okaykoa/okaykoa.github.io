@@ -45,11 +45,11 @@ Pour boiled water into the french press aggressively to stir up the grounds a bi
 
 Let sit for about a minute before stirring with a wooden stirring device, then let the coffee brew for a few minutes (don't forget about your coffee; that would be embarassing 🙃).
 
-_*Caroline recommends avoiding using a metalic stirring device. She doesn't know why. She heard once that you should use a wooden stirring device and follows that advice blindly._
+_*Caroline recommends avoiding using a metallic stirring device. She doesn't know why. She heard once that you should use a wooden stirring device and follows that advice blindly._
 
 ## 5. Prepare the foam
 
-Add some half and half and a tablespoon of vanilla syrup to a tall microwaveable glass.
+Add some half and half and a teaspoon of vanilla syrup to a tall microwaveable glass.
 
 Warm up the vanilla half and half in the microwave for 30 seconds.
 
@@ -61,6 +61,6 @@ _*Caroline looked it up and read that using a metal stirring device can chip or 
 
 Half plunge, then unplunge, then full plunge the french press.
 
-Then pour coffee into a mug, adding vanilla foam to taste.
+Then pour coffee into a mug, adding vanilla foam to taste (this isn't meant to be a sweet coffee, so go easy on the foam and embrace the bitterness of this cardamom coffee).
 
 Enjoy!
