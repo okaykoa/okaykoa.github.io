@@ -29,7 +29,7 @@ _*Now would also be a good time to turn on music for good vibes if you haven't a
 
 ## 2. Grind the beans
 
-Coarsely grind 4 scoops of coffee. 
+Coarsely grind 5 scoops of coffee. 
 
 _*Caroline recommends Café Mam's [Trinity Blend](https://cafemam.com/products/trinity-blend?_pos=1&_sid=822c976e7&_ss=r), a mix of French and Italian beans._ 
 
@@ -49,7 +49,7 @@ _*Caroline recommends avoiding using a metallic stirring device. She doesn't kno
 
 ## 5. Prepare the foam
 
-Add some half and half and a teaspoon of vanilla syrup to a tall microwaveable glass.
+Add some half and half and vanilla syrup (roughly 1 cup and 1 tbsp respeectively) to a tall microwaveable glass.
 
 Warm up the vanilla half and half in the microwave for 30 seconds.
 
