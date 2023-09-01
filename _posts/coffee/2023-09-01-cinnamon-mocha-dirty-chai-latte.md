@@ -8,7 +8,7 @@ Coffee with Caroline vol. 2
 
 This coffee goes several names ("Chai don't know", "The one", "That one with the mocha and chai that's really good"), but its official name is "TO and the Holy Chai Don't Know Nothings" (It's a [band reference](https://www.tkandtheholyknownothings.com/)).
 
-**Description :** This is a complex, sweet, chocolately dirty chai. The chai spices are heavily featured, enhanced by a cinnamon foam, and balanced with mocha and vanilla.
+**Description :** This is a complex, sweet, and chocolately dirty chai. The chai spices are heavily featured, enhanced by a cinnamon foam, and balanced with mocha and vanilla.
 
 **Tasting notes:** Chai, Mocha, Cinnamon, Vanilla
 
