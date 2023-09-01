@@ -57,7 +57,7 @@ Then add your grounds to the french press.
 
 Whilst the water is being boiled or the coffee steeping, prepare your mugs with the chai mix.
 
-Using "my small kitchen spoon, the one from my silverware set, the small one" (for reference, Caroline's teaspoons are smaller than an imperial table spoon and larger than a teaspoon), add one unlevelled spoonful of Orca Spice chai and one spoonful of Black Rhino chai plus a little bit more. So, just a bit more cocoa chai than regular chai.
+Using "my small kitchen spoon, the one from my silverware set, the small one" (for reference, Caroline's teaspoons are smaller than an imperial table spoon and larger than a teaspoon--we measured it), add one unlevelled spoonful of Orca Spice chai and one spoonful of Black Rhino chai plus a little bit more. So, just a bit more cocoa chai than regular chai.
 
 _*Impatiently wait for your boyfriend or parter to finish taking notes before moving to the next step._
 
