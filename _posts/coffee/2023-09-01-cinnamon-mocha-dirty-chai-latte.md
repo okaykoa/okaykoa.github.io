@@ -73,7 +73,7 @@ In a tall microwavable glass, add a little half and half and a spooful of cinnam
 
 Once the coffee is about ready to pour, heat up the half and half in the microwave (pronounced _"me crow wahvay"_).
 
-### 5. Froth the foam
+### 5.2. Froth the foam
 
 In step 6, you will be instructed to come back here and froth the foam. Sorry, Caroline forgot this step until now.
 
