@@ -20,6 +20,7 @@ Coffee with Caroline vol. 1
 - Half and half
 - Vanilla syrup
 - French press
+- Frother
 
 ## 1. Boil some water
 
