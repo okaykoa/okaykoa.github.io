@@ -45,7 +45,7 @@ Using your grinding tool of choice, grind your beans to a medium coarseness.
 
 How much coffee? Caroline says:
 
-> Many scoops. Because we will not make the mistake of making weak-ass coffee again. But I think it was four scoops. Idk if I counted.
+> Many scoops. Because we will not make the mistake of making weak-ass coffee again. But I think it was four scoops. Idk how to count...
 > 
 > umm... 
 
