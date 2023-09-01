@@ -31,13 +31,13 @@ _*Now would also be a good time to turn on music for good vibes if you haven't a
 
 Coarsely grind 5 scoops of coffee. 
 
-_*Caroline recommends Café Mam's [Trinity Blend](https://cafemam.com/products/trinity-blend?_pos=1&_sid=822c976e7&_ss=r), a mix of French and Italian beans._ 
+_*Caroline recommends Café Mam's [Trinity Blend](https://cafemam.com/products/trinity-blend?_pos=1&_sid=822c976e7&_ss=r), a mix of French, Italian, and medium roast beans._ 
 
 ## 3. Add grounds and cardamom to the french press
 
 Add the coffee grounds to a french press with 1/4 teaspoon of ground cardamom.
 
-_This is a great time to smooch your pup, cat, or significant other if you haven't already._
+_*This is a great time to smooch your pup, cat, or significant other if you haven't already._
 
 ## 4. Brew the coffee
 
