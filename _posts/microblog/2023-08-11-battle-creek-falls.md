@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  drained - battle creek falls
+title:  drained | battle creek falls
 category: microblog
 ---
 

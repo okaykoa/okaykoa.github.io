@@ -1,6 +1,6 @@
 ---
 layout: post
-title: okay - i-15 night rides
+title: okay | i-15 night rides
 categories: microblog
 ---
 

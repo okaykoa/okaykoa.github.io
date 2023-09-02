@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  tired - dinner with a friend
+title:  tired | dinner with a friend
 category: microblog
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  grateful - relationships and self-deception
+title:  grateful | relationships and self-deception
 category: microblog
 ---
 

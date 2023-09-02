@@ -1,6 +1,6 @@
 ---
 layout: post
-title: exhausted - the effort is worth the love
+title: exhausted | the effort is worth the love
 categories: microblog
 ---
 

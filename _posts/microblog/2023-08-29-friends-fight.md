@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hurt - friends fight
+title: hurt | friends fight
 categories: microblog
 ---
 

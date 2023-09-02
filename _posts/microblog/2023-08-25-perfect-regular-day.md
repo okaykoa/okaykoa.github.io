@@ -1,6 +1,6 @@
 ---
 layout: post
-title: secure - the perfect regular day
+title: secure | the perfect regular day
 categories: microblog
 ---
 
