@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  accepted - burgers and beer
+title:  accepted | burgers and beer
 category: microblog
 ---
 
