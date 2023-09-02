@@ -1,6 +1,6 @@
 ---
 layout: post
-title: valued - doing things i don't want to do
+title: valued | doing things i don't want to do
 categories: microblog
 ---
 

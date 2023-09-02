@@ -1,6 +1,6 @@
 ---
 layout: post
-title: happy - wfh with a sicko
+title: happy | wfh with a sicko
 categories: microblog
 ---
 

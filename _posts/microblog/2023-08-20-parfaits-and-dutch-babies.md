@@ -1,6 +1,6 @@
 ---
 layout: post
-title: anxious - parfaits and dutch babies
+title: anxious | parfaits and dutch babies
 category: microblog
 ---
 

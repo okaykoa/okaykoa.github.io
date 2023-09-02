@@ -1,6 +1,6 @@
 ---
 layout: post
-title: fulfilled - sundays are for thinking
+title: fulfilled | sundays are for thinking
 categories: microblog
 ---
 

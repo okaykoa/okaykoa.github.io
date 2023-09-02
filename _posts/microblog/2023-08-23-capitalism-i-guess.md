@@ -1,6 +1,6 @@
 ---
 layout: post
-title: uncertain - capitalism, i guess?
+title: uncertain | capitalism, i guess?
 categories: microblog
 ---
 

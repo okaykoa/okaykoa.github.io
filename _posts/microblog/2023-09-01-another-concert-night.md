@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "heart-full - another concert night"
+title: "heart-full | another concert night"
 categories: microblog
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  connected - long-distance friendships
+title:  connected | long-distance friendships
 category: microblog
 ---
 

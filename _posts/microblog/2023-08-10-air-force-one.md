@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "satisfied - air force one"
+title:  satisfied | air force one
 category: microblog
 ---
 

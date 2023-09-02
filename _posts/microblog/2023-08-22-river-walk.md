@@ -1,6 +1,6 @@
 ---
 layout: post
-title: grateful - river walk
+title: grateful | river walk
 categories: microblog
 ---
 

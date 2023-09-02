@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  happy - meet the parents
+title:  happy | meet the parents
 category: microblog
 ---
 

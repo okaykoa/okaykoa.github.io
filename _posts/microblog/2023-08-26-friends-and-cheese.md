@@ -1,6 +1,6 @@
 ---
 layout: post
-title: grateful - friends and cheese
+title: grateful | friends and cheese
 categories: microblog
 ---
 
