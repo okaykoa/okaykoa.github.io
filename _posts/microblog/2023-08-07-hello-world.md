@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "excited - hello world"
+title:  "excited | hello world"
 category: microblog
 ---
 
