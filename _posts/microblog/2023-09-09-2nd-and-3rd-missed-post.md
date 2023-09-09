@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2nd and 3rd missed post
+title: fortunate | 2nd and 3rd missed post
 categories: microblog
 ---
 
