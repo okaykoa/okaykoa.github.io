@@ -1,6 +1,6 @@
 ---
 layout: post
-titie: happy | working to live
+title: happy | working to live
 categories: microblog
 ---
 
