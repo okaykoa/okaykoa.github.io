@@ -1,7 +1,7 @@
 ---
 layout: post
 title: trader joe's lemon chicken and arugula salad
-categories: lunch-reviews
+categories: 🥗🍴
 ---
 
 **Rating:** ★★★★★★☆☆☆☆
