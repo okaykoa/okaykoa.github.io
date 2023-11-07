@@ -1,7 +1,7 @@
 ---
 layout: post
 title: lunch reviews
-categories: [lunch-reviews, 🥗🍴]
+categories: 🥗🍴
 ---
 
 I was walking through the Trader Joe's produce section, looking for a quick bag salad to make for dinner, when I noticed just how large the TJ premade salad section is. Like, there is an alarming variety of salads at Trader Joe's. 
