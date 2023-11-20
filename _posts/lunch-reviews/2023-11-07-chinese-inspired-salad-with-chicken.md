@@ -8,7 +8,7 @@ categories: 🥗🍴
 
 **Description:** Grilled white chicken meat, lettuce, cabbage, carrots, snow peas, and fried noodles with a soy sesame dressing.
 
-**Price:** $?.?? I will check next time I'm there 🙃
+**Price:** $4.99
 
 **Review:**
 
