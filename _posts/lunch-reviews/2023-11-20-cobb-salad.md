@@ -8,7 +8,7 @@ categories: 🥗🍴
 
 **Description:** Cobb salad with grilled chicken breast, uncured bacon, bleu and gorgonzola cheeses, and ranch dressing.
 
-**Price:** $?.?? I will have to check next time (: 
+**Price:** $5.99 
 
 **Review:**
 
